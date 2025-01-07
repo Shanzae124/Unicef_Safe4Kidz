@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88519384638",
+    "project_id": "safe4kids-2a09c",
+    "storage_bucket": "safe4kids-2a09c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88519384638:android:12916e996b067a79a47b6f",
+        "android_client_info": {
+          "package_name": "com.safe4kidz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAijHz8wArjrYaIov3OikVa1WRlZSyaweA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88519384638:android:c728152677352308a47b6f",
+        "android_client_info": {
+          "package_name": "com.shanzae.Safe4Kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAijHz8wArjrYaIov3OikVa1WRlZSyaweA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
